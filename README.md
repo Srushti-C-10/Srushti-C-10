@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Srushti C 👋
 
-<!--
-**Srushti-C-10/Srushti-C-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics and Communication Engineering student  
+💡 Interested in VLSI Design and Semiconductor Technologies  
 
-Here are some ideas to get you started:
+## Tech Stack
+- RTL Design
+- ASIC Fundamentals
+- RISC-V Architecture
+- Testbench Development
+- Linux
+- C Programming
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- VLSI Design
+- Digital Systems
+- System Verilog
+
+## Connect with me
+LinkedIn:(https://www.linkedin.com/in/srushti-c-65831839b/)
